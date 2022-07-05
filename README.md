@@ -2,4 +2,4 @@
 
 Open xampp>htdocs
 Open localhost
-Setup database-Open admin mysql
+Setup database-Open admin mysql-Import database
